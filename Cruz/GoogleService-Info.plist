@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>866864143132-53qfdclrq6q268buq28k54kst7tjvhuf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.866864143132-53qfdclrq6q268buq28k54kst7tjvhuf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-gh9WzcHUsCDQcsDFhniQzDIvWcmVbXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>866864143132</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.infinitelogisticssystems.Cruz</string>
+	<key>PROJECT_ID</key>
+	<string>cruz-ba236</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cruz-ba236.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:866864143132:ios:1dc2c1771e17a503e078d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://cruz-ba236.firebaseio.com</string>
+</dict>
+</plist>
